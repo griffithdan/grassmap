@@ -1,0 +1,13 @@
+Package: Cisotope
+Type: Package
+Title: Stable Terrestrial Carbon Isoscape Package
+Version: 0.1
+Date: 2016-10-24
+Author: Sydney M. Firmin
+Maintainer: Sydney M. Firmin <smfirmin@gmail.com>
+Description: Generation of stable terrestrial carbon isoscapes.
+Depends: R (>= 2.10), sp, raster, rgdal
+Repository: CRAN
+License: GPL-2
+NeedsCompilation: no
+Packaged: 2017-01-06 20:04:12 UTC; Sydney
